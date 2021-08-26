@@ -45,20 +45,6 @@
         },
         {
             "confidence_level": "HIGH",
-            "created_time": "2021-02-13T19:17:42Z",
-            "description": "custom block list",
-            "id": 666908,
-            "item_count": 4,
-            "name": "aharsh-custom-block",
-            "policies": [
-                "aharsh-security-policy"
-            ],
-            "threat_level": "HIGH",
-            "type": "custom_list",
-            "updated_time": "2021-02-13T19:17:42Z"
-        },
-        {
-            "confidence_level": "HIGH",
             "created_time": "2020-12-15T20:52:20Z",
             "description": "Allowed list for amann",
             "id": 665311,
